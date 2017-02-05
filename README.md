@@ -1,9 +1,9 @@
 # portfolio-website
-An HTML and CSS only website from the Code Louisville Front-End Web Development track course utilizing the Treehouse online curriculum.  This website demonstrates how to use CSS media queries to display different layouts for phone, tablet, and desktop devices.
+An HTML and CSS website built for the Code Louisville Front-End Web Development track required pre-enrollment course.  This website was built utilizing the Treehouse online course, How to Make a Website with Nick Pettit.  This website demonstrates how to use CSS media queries to display different layouts for phone, tablet, and desktop devices.
 ## Installation
 The index.html file must be opened in a web browser.
 ## Usage
-Utilize this website to learn and understand CSS media queries to create mobile responsive websites and as a starting template for your own portfolio website.
+Utilize this website to learn how to build a modern portfolio website for desktops, tablets, and mobile devices.  Use to understand CSS media queries to create mobile responsive website break points and as a starting template for your own portfolio website.
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -15,3 +15,4 @@ Utilize this website to learn and understand CSS media queries to create mobile 
 Version 0.1 created October 2016
 ## Credits
 Treehouse course, How to Make a Website with Nick Pettit
+https://teamtreehouse.com/library/how-to-make-a-website
